@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SilentModeToggle/SilentModeToggle.iml" filepath="$PROJECT_DIR$/SilentModeToggle/SilentModeToggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SilentModeToggleProject.iml" filepath="$PROJECT_DIR$/SilentModeToggleProject.iml" />
+    </modules>
+  </component>
+</project>
+
